@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845436172277",
+    "firebase_url": "https://mile-tds-app.firebaseio.com",
+    "project_id": "mile-tds-app",
+    "storage_bucket": "mile-tds-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845436172277:android:91f9467e1b6f0da69a12bc",
+        "android_client_info": {
+          "package_name": "mile.tdsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845436172277-qer22er7efio10t6a6sjs5v3nqfjfipa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp9oiPkVOdqp6-1wABb1LWo4jsC99FwzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845436172277-qer22er7efio10t6a6sjs5v3nqfjfipa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
